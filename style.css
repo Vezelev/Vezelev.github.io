@@ -4,13 +4,13 @@ body{
 p{
     font-family:'Fira Mono', monospace;
     
-    font-size: 10px;
+    font-size: 15px;
     color:green;
 }
 h1{
     font-family:'Fira Mono', monospace;
     color:red;
-    font-size: 10px;
+    font-size: 15px;
 }
 /*.text{
     color: green;
