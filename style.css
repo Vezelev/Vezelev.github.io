@@ -1,0 +1,32 @@
+body{
+    background-color:black
+}
+p{
+    font-family:'Fira Mono', monospace;
+    
+    font-size: 80px;
+    color:green;
+}
+h1{
+    font-family:'Fira Mono', monospace;
+    color:red;
+    font-size: 30px;
+}
+.text{
+    color: green;
+}
+#car {
+    width: auto;
+    height: 400px;
+}
+@media only screen and (max-width: 400px) {
+    #smiley {
+      width: 300px;
+    }
+}
+@media only screen and (max-width: 300px) {
+    #smiley {
+      max-width: 300px;
+      width: 100%;
+    }
+}

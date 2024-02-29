@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <title>Vezelev's Website</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1 class="text"> Vsyo horosho teper' ya zelyonyy</h1>
+        <p class="text">Super</p>
+        <img id="car" alt="Idk some funny picture was supposed to be here" src="https://sun1-87.userapi.com/impg/vujzwfG4LlgtsepzFytubY4O3ZN0jU1bE8ntOg/vV8srLwEvLc.jpg?size=1280x960&quality=95&sign=e503a081efc07488e8c607185702324d&type=album">
+
+        
+        <h2>My First JavaScript</h2>
+
+        <button type="button"
+        onclick="document.getElementById('demo').innerHTML = Date()">
+        Click me to display Date and Time.</button>
+
+        <p id="demo"></p>
+
+
+
+        <script>
+            const car = document.querySelector("#car");
+            car.addEventListener("click", () => {
+               alert(`Yo!`);
+            });
+        </script>
+    </body>
+</html>
