@@ -19,7 +19,7 @@ h1{
     width: 100px;
     height: auto;
 }
-/*@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) {
     #my_accord_image {
       width: 50%;
     }
@@ -28,7 +28,7 @@ h1{
     #my_accord_image {
       width: 50%;
     }
-}*/
+}
 
 span{
     font-size: 40px;
