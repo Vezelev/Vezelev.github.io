@@ -16,8 +16,7 @@ h1{
     color: green;
 }*/
 #car {
-    width: 100;
-    height: auto;
+    width: 50%;
 }
 /*@media only screen and (max-width: 400px) {
     #my_accord_image {
