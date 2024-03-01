@@ -16,10 +16,10 @@ h1{
     color: green;
 }*/
 #my_accord_image {
-    width: auto;
-    height: 150px;
+    width: 50%;
+    height: auto;
 }
-@media only screen and (max-width: 400px) {
+/*@media only screen and (max-width: 400px) {
     #my_accord_image {
       width: 50%;
     }
@@ -28,7 +28,7 @@ h1{
     #my_accord_image {
       width: 50%;
     }
-}
+}*/
 
 span{
     font-size: 40px;
