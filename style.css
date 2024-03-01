@@ -30,3 +30,8 @@ h1{
       width: 100%;
     }
 }
+a{
+    font-family:'Fira Mono', monospace;
+    color: yellow
+    font-size: 30px;
+}
