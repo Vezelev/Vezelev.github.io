@@ -7,3 +7,9 @@ p {
     text-align: center;
     background-image: linear-gradient(to bottom, red, blue);
 }
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
