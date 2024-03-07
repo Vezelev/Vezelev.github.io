@@ -1,5 +1,6 @@
 body {
     background-color: lightblue;
+    background-image: linear-gradient(to bottom, red, blue);
 }
 p {
     color:blueviolet;
