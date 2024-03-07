@@ -8,8 +8,8 @@ p {
     background-image: linear-gradient(to bottom, red, blue);
 }
 img {
-    border: 3px solid #ddd;
+    border: 1px solid #db1f1f;
     border-radius: 4px;
     padding: 5px;
-    width: 300px;
+    width: 150px;
 }
