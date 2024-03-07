@@ -7,3 +7,6 @@ p {
     text-align: center;
     background-image: linear-gradient(to bottom, red, blue);
 }
+img {
+    width: 300px;
+}
