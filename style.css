@@ -1,40 +1,7 @@
 body{
-    background-color:black
+    background-color:lightblue
 }
 p{
-    font-family:'Fira Mono', monospace;
-    
-    font-size: 20px;
-    color:green;
-}
-h1{
-    font-family:'Fira Mono', monospace;
-    color:red;
-    font-size: 20px;
-}
-/*.text{
-    color: green;
-}*/
-#car{
-    width: 100px;
-    height: auto;
-}
-@media only screen and (max-width: 400px) {
-    #my_accord_image {
-      width: 50%;
-    }
-}
-@media only screen and (max-width: 300px) {
-    #my_accord_image {
-      width: 50%;
-    }
-}
-
-span{
-    font-size: 40px;
-}
-a{
-    font-family:'Fira Mono', monospace;
-    color: yellow;
-    font-size: 30px;
+    color:blueviolet;
+    font-size: 45px;
 }
