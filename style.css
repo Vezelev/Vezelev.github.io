@@ -1,5 +1,6 @@
 body {
-    background-color: lightblue;
+    background-color: #d7c6ac;
+    background-image: url("001.jpg")
 }
 p {
     color:blueviolet;
@@ -7,9 +8,13 @@ p {
     text-align: center;
     background-image: linear-gradient(to bottom, red, blue);
 }
-#beach {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
+#cat {
+    border: 5px dashed #3de7a6;
+    border-radius: 70px;
+    padding: 0px;
+    width: 400px;
+    align-self: center;
 }
+img:hover {
+    box-shadow: 0 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
