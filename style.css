@@ -9,12 +9,11 @@ p {
     background-image: linear-gradient(to bottom, red, blue);
 }
 #cat {
-    border: 5px dashed #3de7a6;
+    border: 10px dashed #ff9100;
     border-radius: 70px;
     padding: 0px;
-    width: 400px;
-    align-self: center;
+    width: 500px;
 }
 img:hover {
-    box-shadow: 0 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.3);
     }
