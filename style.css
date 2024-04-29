@@ -1,5 +1,6 @@
 * {
     margin:0;
+    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
 }
 #whole_page {
     background-color:aquamarine;
@@ -27,6 +28,20 @@
 #contacts{
     padding-top:10px;
 }
+.underlined{
+    padding-top:35px;
+    font-size:26px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.after_underlined{
+    padding-top:8px;
+    font-size:24px;
+}
+.orange_text{
+    color:orangered;
+    font-size:18px;
+}
 p.contacts-container{
     padding-right:50px;
 }
@@ -36,7 +51,16 @@ img.contacts-container {
 .contacts-container {
     height:18px;
     float:left;
-    font-size:100%;
+}
+p.job-container{
+    padding-right:20px;
+}
+img.job-container {
+    padding-right:10px;
+}
+.job-container{
+    height:18px;
+    float:left;
 }
 .clearfix::after {
     content: "";
