@@ -3,7 +3,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 #whole_page {
-    background-color:aquamarine;
+    background-image: linear-gradient(to right, #ff9a9e, #5115b1);
 }
 #page {
     background-color:white;
@@ -68,4 +68,29 @@ img.job-container {
     content: "";
     clear: both;
     display: table;
-  }
+}
+ul{
+    padding-top:10px;
+    list-style-type: square;
+}
+li{
+    padding-top:5px;
+    width:200px;
+    height:18px;
+}
+li.level{
+    list-style-type: none;
+    text-align:center;
+}
+.skills_levels{
+    padding-top:10px;
+    float:left;
+}
+.level{
+    border:1px solid black;
+    width:100px;
+    padding:0;
+    margin-top:3px;
+    background-image: linear-gradient(to right, #ff0008, #d9ff00, #00ff22);
+}
+  
