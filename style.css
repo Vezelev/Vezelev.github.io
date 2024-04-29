@@ -1,6 +1,6 @@
 * {
     margin:0;
-    /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+    font-family: Arial, Helvetica, sans-serif;
 }
 #whole_page {
     background-color:aquamarine;
@@ -39,8 +39,10 @@
     font-size:24px;
 }
 .orange_text{
+    padding-top:2px;
     color:orangered;
     font-size:18px;
+    padding-bottom:3px;
 }
 p.contacts-container{
     padding-right:50px;
