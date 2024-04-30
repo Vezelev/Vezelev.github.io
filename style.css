@@ -75,6 +75,8 @@ ul{
 }
 li{
     padding-top:5px;
-    width:200px;
     height:18px;
+}
+.about_me{
+    font-weight:bold;
 }
