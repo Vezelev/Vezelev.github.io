@@ -91,6 +91,29 @@ li.level{
     width:100px;
     padding:0;
     margin-top:3px;
-    background-image: linear-gradient(to right, #ff0008, #d9ff00, #00ff22);
 }
+.level-hide{
+    position:absolute;
+    height:18px;
+    text-align:left;
+    overflow:hidden;
+}
+#blender{
+    width:60px;
+}
+#frontend{
+    width:40px;
+}
+#drive{
+    width:80px;
+}
+span{
+    overflow:hidden;
+}
+.pleasework{
+    background-image: linear-gradient(to right, #ff0008, #d9ff00, #00ff22);
+    height:18px;
+    width:100px;
+}
+
   
